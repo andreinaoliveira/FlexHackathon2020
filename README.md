@@ -2,7 +2,7 @@
 
 Projeto em RPA realizado pelo time Uchiha para apresentação no Flex Hackathon 2020.
 <br>
-O projeto em questão tem como objetivo automatizar o processo manual de extração dos participantes incritos no evento do Sympla e enviar um invite no outlook para a live.
+O projeto em questão tem como objetivo automatizar o processo manual de extração dos participantes inscritos no evento do Sympla e enviar um invite no outlook para a live.
 <br>
 Assim, o robô acessa a plataforma Sympla com as credenciais do criador do evento, extrai todos os participantes inscritos, distingue os participantes aprovados dos cancelados e envia para os aprovados o convite para o evento.
 
