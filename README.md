@@ -12,7 +12,7 @@ Estas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 
 ### IMPORTANTE !!!
 
-Repositório do GitHub tem encontrado falhas para upload dos arquivos, pasta screenshot por exemplo, impactando da funcionalidade do programa.
+Repositório do GitHub tem encontrado falhas para upload dos arquivos, pasta screenshot por exemplo, impactando a funcionalidade do programa.
 Para os avaliadores do Hackathon, por gentileza considerar o link do BOX (informado no formulário) para dowload do repositório.
 
 ### Pré-requisitos
