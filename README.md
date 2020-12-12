@@ -24,7 +24,7 @@ Sympla Account (necessidade de ter evento criado)
 ### Definição de Variáveis
 
 Para que o robô funcione corretamente, é preciso alterar algumas variáveis, visto que de acordo com o usuário/máquina as informações podem ser divergentes.
-* **strEmail - Workflow LoginSympla:** Email usado para logar no Sympla.
+* **strEmail - Workflow LoginSympla:** E-mail usado para logar no Sympla.
 * **strPassword - Workflow LoginSympla:** Senha usada para logar no Sympla.
 * **strCurso - Workflow GetData:** Nome do evento cadastrado no Sympla.
 * **strDoc - Workflow GetData:** Pasta onde o arquivo extraído do Sympla será salvo.
