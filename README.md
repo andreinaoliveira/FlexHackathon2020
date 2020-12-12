@@ -10,6 +10,11 @@ Assim, o robô acessa a plataforma Sympla com as credenciais do criador do event
 
 Estas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local para fins de desenvolvimento e teste. 
 
+### IMPORTANTE !!!
+
+Repositório do GitHub tem encontrado falhas para upload dos arquivos, pasta screenshot por exemplo, impactando da funcionalidade do programa.
+Para os avaliadores do Hackathon, por gentileza considerar o link do BOX (informado no formulário) para dowload do repositório.
+
 ### Pré-requisitos
 
 Softwares/Contas necessárias:
